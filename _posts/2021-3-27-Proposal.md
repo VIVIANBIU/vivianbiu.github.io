@@ -11,8 +11,8 @@ As I mentioned above, I think I fit this task since I have finished several codi
 fun facts, and upload the pdf format of cv onto the web in the 3rd week.
 3. For the next 3 weeks, I have to modify some of my previous projects, and
 upload to GitHub following the confidentiality.
-4. The last 2 weeks should be wind-up weeks. To make the web more attractive,
-I plan to decorate it with graphs and pasters in similar hues. Also, I have to
+4. The last 2 weeks should be wind-up weeks. 
+To make the web more attractive, I plan to decorate it with graphs and pasters in similar hues. Also, I have to
 check whether there exists small faults and typos.
 Therefore, I will measure my progress by recording which state I have reached so far, and compare to the original plan.
 Although I have planned a lot, there still may be a lot barrier. The first I think about is to code in HTML. Since I did not learn about HTML before, I have to learn a wholly new programming language in the future 2 weeks, which means a lot of challenges to me. Secondly, it is my first time to work solely on a relatively big project. I don’t have partners to discuss what to do or how to deal with problems I face. Thus, it is a challenge to work alone.
